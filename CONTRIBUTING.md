@@ -26,14 +26,14 @@ We’re excited to have you contribute and grow with us! 💙
 
 You can contribute in **multiple impactful ways**:
 
-✨ **DSA Problems & Solutions** (C / C++ / Java / Python / JavaScript / TypeScript / PL/pgSQL)
-✨ **Placement-focused Notes & Cheatsheets**
-✨ **Company-wise Interview Questions**
-✨ **Resume & Interview Preparation Resources**
-✨ **Frontend Improvements / UI Enhancements**
-✨ **Backend Code & SQL/PLSQL Examples**
-✨ **Bug Fixes & Documentation Improvements**
-✨ **New Features & Practice Modules**
+- ✨ **DSA Problems & Solutions** (C / C++ / Java / Python / JavaScript / TypeScript / PL/pgSQL)
+- ✨ **Placement-focused Notes & Cheatsheets**
+- ✨ **Company-wise Interview Questions**
+- ✨ **Resume & Interview Preparation Resources**
+- ✨ **Frontend Improvements / UI Enhancements**
+- ✨ **Backend Code & SQL/PLSQL Examples**
+- ✨ **Bug Fixes & Documentation Improvements**
+- ✨ **New Features & Practice Modules**
 
 > 📌 *All meaningful contributions will be considered for ECWoC’26 evaluation.*
 
@@ -142,43 +142,43 @@ Placement-Prep/
 
 ### Step-by-step Guide:
 
-1. 🍴 **Fork** this repository
-2. 🌱 **Create a new branch**
+STEP 1. 🍴 **Fork** this repository
+STEP 2. 🌱 **Create a new branch**
 
    ```bash
    git checkout -b feature/your-feature-name
    ```
-3. ✍️ **Make your changes** (clean & well-documented)
-4. ✅ **Commit your work**
+STEP 3. ✍️ **Make your changes** (clean & well-documented)
+STEP 4. ✅ **Commit your work**
 
    ```bash
    git commit -m "✨ Added binary search solutions"
    ```
-5. 🚀 **Push to your fork**
+STEP 5. 🚀 **Push to your fork**
 
    ```bash
    git push origin feature/your-feature-name
    ```
-6. 🔁 **Create a Pull Request (PR)**
+STEP 6. 🔁 **Create a Pull Request (PR)**
 
 ---
 
 ## 🧪 Code Quality Guidelines
 
-✔ Follow clean coding practices
-✔ Add comments where necessary
-✔ Avoid plagiarism (original or referenced work only)
-✔ Use meaningful commit messages
-✔ Test your code before submitting
+- ✔ Follow clean coding practices
+- ✔ Add comments where necessary
+- ✔ Avoid plagiarism (original or referenced work only)
+- ✔ Use meaningful commit messages
+- ✔ Test your code before submitting
 
 ---
 
 ## 📝 Pull Request Rules
 
-🔹 One PR = One Feature / Fix
-🔹 Clearly describe **what & why** you changed
-🔹 Attach screenshots / outputs (if UI-related)
-🔹 Link the related issue (if assigned)
+- 🔹 One PR = One Feature / Fix
+- 🔹 Clearly describe **what & why** you changed
+- 🔹 Attach screenshots / outputs (if UI-related)
+- 🔹 Link the related issue (if assigned)
 
 > ⚠️ Low-effort, copied, or spam PRs will be **closed without review**.
 
@@ -186,9 +186,9 @@ Placement-Prep/
 
 ## 🏷️ Issue Assignment (ECWoC’26)
 
-* Comment **"I would like to work on this issue"**
-* Wait for mentor/admin approval
-* Complete within the given timeline
+-  Comment **"I would like to work on this issue"**
+-  Wait for mentor/admin approval
+-  Complete within the given timeline
 
 ---
 
@@ -200,9 +200,9 @@ Placement-Prep/
 
 If you need help:
 
-* Open a **Discussion**
-* Comment on the **Issue**
-* Be respectful & collaborative
+- Open a **Discussion**
+- Comment on the **Issue**
+- Be respectful & collaborative
 
 ---
 
